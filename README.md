@@ -1,1 +1,2 @@
-# OnsenMap
+#Yuamee  (yuami.org) とは
+
